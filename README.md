@@ -1,4 +1,4 @@
-# Demo IdP
+# C9 Demo IdP
 
 Demo Identity Provider for Flex SSO integration challenge.
 
