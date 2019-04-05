@@ -2,7 +2,7 @@
 
 Demo Identity Provider for Flex SSO integration challenge.
 
-*Note: At the moment this needs to be executed from Twilio Training's C9 virtual environment.*
+*Note: This is a version for C9 environments that doesn't use ngrok - you probably want [this version](https://github.com/TwilioTraining/demo-idp) instead.*
 
 
 ## Installation
