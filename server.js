@@ -25,7 +25,7 @@ runServer({
       options: ['agent', 'admin', 'supervisor']
     }],
     user: {
-      userName: 'joe.owling@example.com',
+      userName: 'joe.owling',
       email: 'joe.owling@example.com',
       full_name: 'Joe Owling'
     }
